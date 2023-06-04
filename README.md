@@ -8,8 +8,8 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goldenboypapoy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldenboypapoy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bluegeniusdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluegeniusdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">
