@@ -1,4 +1,4 @@
-<h2 align="center">👋Senior Mobile Native Developer👋</h2>
+<h2 align="center">👋Senior Mobile App Developer👋</h2>
 
 <!-- <br clear="both"> -->
 
